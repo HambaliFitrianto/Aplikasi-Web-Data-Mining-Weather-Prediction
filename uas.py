@@ -61,7 +61,9 @@ with data_set_description:
     5. fog (kabut)
     """)
     st.write("###### Aplikasi ini untuk : Weather Prediction (Prediksi Cuaca) ")
-    st.write("###### Source Code Aplikasi ada di Github anda bisa acces di link : https://github.com/HambaliFitrianto/Aplikasi-Web-Data-Mining-Weather-Prediction ")
+    st.write("###### Source Code Aplikasi ada di Github anda bisa acces di link : https://github.com/HambaliFitrianto/Aplikasi-Web-Data-Mining-Weather-Prediction")
+    st.write("###### Hosting Aplikasi di Heroku bisa acces di link : https://github.com/HambaliFitrianto/Aplikasi-Web-Data-Mining-Weather-Prediction")
+    st.write("###### Hosting Aplikasi di Streamlit Share bisa acces di link : https://github.com/HambaliFitrianto/Aplikasi-Web-Data-Mining-Weather-Prediction")
     st.write("###### Untuk Wa saya anda bisa hubungi nomer ini : http://wa.me/6282138614807 ")
 
 #Uploud data
