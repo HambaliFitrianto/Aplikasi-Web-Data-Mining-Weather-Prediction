@@ -62,8 +62,6 @@ with data_set_description:
     """)
     st.write("###### Aplikasi ini untuk : Weather Prediction (Prediksi Cuaca) ")
     st.write("###### Source Code Aplikasi ada di Github anda bisa acces di link : https://github.com/HambaliFitrianto/Aplikasi-Web-Data-Mining-Weather-Prediction")
-    st.write("###### Hosting Aplikasi di Heroku bisa acces di link : https://app-web-weather-prediction.herokuapp.com/")
-    st.write("###### Hosting Aplikasi di Streamlit Share bisa acces di link : https://hambalifitrianto-aplikasi-web-data-mining-weather-pr-uas-77nbo5.streamlit.app/")
     st.write("###### Untuk Wa saya anda bisa hubungi nomer ini : http://wa.me/6282138614807 ")
 
 #Uploud data
