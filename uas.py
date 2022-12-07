@@ -23,7 +23,6 @@ df = pd.read_csv('https://raw.githubusercontent.com/HambaliFitrianto/Aplikasi-We
 
 #data_set_description
 with data_set_description:
-    st.write("""# Data Set Description """)
     st.write("###### Data Set Ini Adalah : Weather Prediction (Prediksi Cuaca) ")
     st.write("###### Sumber Data Set dari Kaggle : https://www.kaggle.com/datasets/ananthr1/weather-prediction")
     st.write("""###### Penjelasan setiap kolom : """)
